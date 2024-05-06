@@ -10,7 +10,11 @@ I've intrest on working with AI ALGORITHM using data, and during this time I wor
 
 What has enchanted me the most is working with data projects seen that today we have a huge amount of data everywhere and by using the right technologies and algorithm, we can get answers to solve real-time problems, impacting all society and making the world a better place.
 
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 
 <br>
 
