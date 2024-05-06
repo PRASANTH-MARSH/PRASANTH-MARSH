@@ -15,6 +15,7 @@ What has enchanted me the most is working with data projects seen that today we 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+          LINKED IN : ![image](https://github.com/PRASANTH-MARSH/PRASANTH-MARSH/assets/141635999/6be59524-bfb2-4b4f-8ae3-d249af5db46d)
 
 <br>
 
